@@ -2,6 +2,10 @@
 - Estudando react e typescript!
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogomaggio&theme=dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogomaggio&Donut_Vertical_Char=true)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
